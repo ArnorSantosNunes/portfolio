@@ -1,3 +1,4 @@
+// src/themes/light.ts
 const temaLight = {
   corPrincipal: '#282a35',
   corSecundaria: '#949494',
